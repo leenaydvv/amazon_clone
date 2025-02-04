@@ -1,6 +1,5 @@
 # AMAZONA
 
-![amazona](/frontend/public/images/amazona.PNG)
 
 # E-Commerce
 
