@@ -6,10 +6,6 @@
 
 A fully-functional e-commerce website like amazon. Build the e-commerce website using MERN stack (MongoDB, ExpressJS, React and Node.JS).
 
-## Demo Website
-
--   👉 Heroku : [https://e-amazona.herokuapp.com](https://e-amazona.herokuapp.com)
-
 ## Technologies
 
 -   HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
@@ -26,7 +22,7 @@ A fully-functional e-commerce website like amazon. Build the e-commerce website 
 ### 1. Clone repo
 
 ```
-$ git clone https://github.com/fahimjason/amazona.git
+$ git clone 
 $ cd amazona
 $ npm run build     # If you face any issue with react version use --f
 ```
@@ -69,10 +65,6 @@ $ npm start
 
 -   Run http://localhost:3000/signin
 -   Enter admin email and password and click signin
-
-## Support
-
--   Contact Developer: [Fahim](mailto:fahimulhoquejason@gmail.com)
 
 # Works
 
